@@ -13,6 +13,16 @@
 1. [Rust API](https://willcrichton.net/rust-api-type-patterns/registries.html)
 2. [Rust for Rustaceans - Idiomatic Programming - Jon Gjengset](https://github.com/archeoss/books/blob/master/Rust%20for%20Rustaceans_%20Idiomatic%20Programming%20-%20Jon%20Gjengset.pdf "Rust for Rustaceans_ Idiomatic Programming - Jon Gjengset.pdf")
 
+### Distributed Systems
+
+1. [Designing Data Intensive Applications](https://github.com/archeoss/books/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
+2. [Practical Hadoop Ecosystem](https://github.com/archeoss/books/blob/master/Practical%20Hadoop%20Ecosystem.pdf)
+3. [Distributed Computing. Fundamentals, Simulations and Advanced Topics.pdf](https://github.com/archeoss/books/blob/master/Distributed%20Computing.%20Fundamentals,%20Simulations%20and%20Advanced%20Topics.pdf)
+
+### AI/ML
+
+1. [Artificial Intelligence: A Modern Approach. Russell & Norvig](https://github.com/archeoss/books/blob/master/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russel.pdf)
+
 ## Other Stuff
 
 1. [Теория Вероятностей. Конспекты Лекций](https://github.com/archeoss/books/blob/master/%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F%20%D0%92%D0%B5%D1%80%D0%BE%D1%8F%D1%82%D0%BD%D0%BE%D1%81%D1%82%D0%B5%D0%B9.%20%D0%9A%D0%BE%D0%BD%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D1%8B.pdf)
