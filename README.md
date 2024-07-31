@@ -21,7 +21,7 @@
 
 ### AI/ML
 
-1. [Artificial Intelligence: A Modern Approach. Russell & Norvig](https://github.com/archeoss/books/blob/master/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russel.pdf)
+1. [Artificial Intelligence: A Modern Approach. Russell & Norvig](https://github.com/archeoss/books/blob/master/Artificial.Intelligence.A.Modern.Approach.4th.Edition.Peter.Norvig.%20Stuart.Russell.Pearson.9780134610993.EBooksWorld.ir.pdf)
 
 ## Other Stuff
 
